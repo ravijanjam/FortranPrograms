@@ -1,4 +1,6 @@
 
+	program main
+
 	integer p
 	write (*, *), 'subroutine example for fortran77'
 	write (*, *), 'please enter an integer '
